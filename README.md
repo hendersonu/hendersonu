@@ -11,3 +11,14 @@ asdggjkj
 asdads
 
 adsdasad
+
+## Technologies
+
+-Java
+
+## Skills
+asdggjkj
+asdads
+
+adsdasad
+
