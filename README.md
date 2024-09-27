@@ -7,6 +7,6 @@ I look forward learning a lot. I write down my email just in case
 "hendersonuriel1998@gmail.com"
 
 ## Languages
-- Spanish (native speaker - LATAM)
-- English (intermediate)
-- 
+    - Spanish (native speaker - LATAM)
+    - English (intermediate)
+
